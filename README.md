@@ -4,7 +4,7 @@ Fixed **SuperPoker** build for Strobe/Nookmart order delivery (Run Dodo, order J
 
 ## Download
 
-**Get the zip from [Releases](https://github.com/chAosTwizt/SPC/releases/latest)** → `ACNHSuperPoker-Share-2026-07-04.zip`
+**Get the zip from [Releases](https://github.com/chAosTwizt/SPC/releases/latest)** → `ACNHSuperPoker-Share-2026-07-05.zip`
 
 ## Requirements
 
@@ -72,7 +72,8 @@ Fixed **SuperPoker** build for Strobe/Nookmart order delivery (Run Dodo, order J
 | **`R`** | Minus (−) |
 | **`Y`** | Plus (+) |
 | **`Q`** | ZL |
-| **`O`** | ZR |
+| **`K`** | B (cancel dialog — hostage escape) |
+| **`L`** | A (confirm return to island) |
 
 ---
 
@@ -93,7 +94,25 @@ Fixed **SuperPoker** build for Strobe/Nookmart order delivery (Run Dodo, order J
 | Problem | Fix |
 |---------|-----|
 | Keys do nothing | Click **Dutch Sailors** title bar first |
-| Run Dodo fails | Set anchors 2 & 3; connected; on overworld |
+| Run Dodo picks **Search for a friend** | Edit `ACNHPokerCore.dll.config` → set `OrvilleDodoDown` to **`0`** (skip DDOWN) or **`2`** (extra DDOWN). Default is **`1`**. Restart app. |
+| Run Dodo fails / FormatException | Update to latest release; connect first; set anchors 2 & 3 |
+| Present items missing from order | Needs `strobe/gifts/*.nhi` files; v1.0.1+ maps website present SKUs to random gifts |
+| Drop crashes after adding pocket items | Click **Import Pockets** first, then drop |
+| Taskbar pin shows leaf icon | Pin the **Desktop shortcut** instead of the `.exe` (shortcut keeps SP icon) |
 | No item icons | Wait for first-boot image download |
 
-Based on [ACNHPokerCore](https://github.com/MyShiLingStar/ACNHPokerCore) / ACNHSuperPoker order fork.
+### OrvilleDodoDown config
+
+If Run Dodo opens the wrong Orville submenu, add or edit in `win-x64\ACNHPokerCore.dll.config`:
+
+```xml
+<add key="OrvilleDodoDown" value="1" />
+```
+
+Try **`0`** if it selects "Search for a friend" when you expect dodo code. Try **`2`** if it skips past dodo code.
+
+By default v1.0.1+ auto-retries Orville with DDOWN counts **1, 0, 2** (like Leann's island bot). Override with:
+
+```xml
+<add key="OrvilleDodoDownAttempts" value="0,1,2" />
+```

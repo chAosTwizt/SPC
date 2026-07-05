@@ -2,7 +2,19 @@
 
 ## SuperPoker Share Pack — July 2026
 
-Download **`ACNHSuperPoker-Share-2026-07-04.zip`** from the [Releases](https://github.com/USER/ACNHSuperPoker-Share/releases) page (Assets section).
+Download **`ACNHSuperPoker-Share-2026-07-05.zip`** from the [Releases](https://github.com/chAosTwizt/SPC/releases/latest) page (Assets section).
+
+## v1.0.1 (July 5, 2026)
+
+Same build chAos runs locally — crash fixes for Run Dodo / dropper, Orville menu auto-retry, present item loading.
+
+### Changes
+
+- No more FormatException popup on bad sys-botbase reads (logs instead)
+- Dropper survives bad memory reads instead of stopping after N items
+- Run Dodo retries Orville menu (DDOWN 1 → 0 → 2)
+- Website present SKUs map to gift pool
+- README troubleshooting for OrvilleDodoDown config
 
 ### Quick start
 
