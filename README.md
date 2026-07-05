@@ -4,7 +4,7 @@ Fixed **SuperPoker** build for Strobe/Nookmart order delivery (Run Dodo, order J
 
 ## Download
 
-**Get the zip from [Releases](https://github.com/YOUR_USERNAME/ACNHSuperPoker-Share/releases/latest)** → `ACNHSuperPoker-Share-2026-07-04.zip`
+**Get the zip from [Releases](https://github.com/chAosTwizt/SPC/releases/latest)** → `ACNHSuperPoker-Share-2026-07-04.zip`
 
 ## Requirements
 

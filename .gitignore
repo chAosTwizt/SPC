@@ -1,0 +1,9 @@
+﻿save/
+*.bak
+*.original
+*.pre-*
+.env
+.env.*
+**/appsettings*.json
+**/user.config
+**/secrets.json
