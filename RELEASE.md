@@ -4,6 +4,15 @@
 
 Download **`ACNHSuperPoker-Share-2026-07-05.zip`** from the [Releases](https://github.com/chAosTwizt/SPC/releases/latest) page (Assets section).
 
+## v1.0.1.1 (July 5, 2026)
+
+Same DLL as chAos runs locally — includes v1.0.1 fixes plus Connect validation no longer blocks on a bad peek.
+
+### Changes
+
+- Connect no longer shows "Wait something is wrong here!?" when sys-botbase returns empty data during validation
+- Validation skips gracefully if memory peek fails (retry Connect with ACNH on overworld)
+
 ## v1.0.1 (July 5, 2026)
 
 Same build chAos runs locally — crash fixes for Run Dodo / dropper, Orville menu auto-retry, present item loading.
