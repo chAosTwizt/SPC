@@ -45,3 +45,7 @@ Do **not** use a zip copied from someone else's full install folder (Black/Red/e
 | Run Dodo fails | Set anchors 2 & 3; game on overworld |
 | Connect fails | Check IP; ACNH running; sys-botbase port 6000 |
 | Wrong teleports | Reset anchors → set again on **your** island |
+| Crash / sequence stops / dropper dies | After a crash: Desktop **`SPC-LAST-CRASH.log`** is written automatically — send that to chAos. If poker is still open, click **Send Debug Log**. |
+
+Debug log also lives at `win-x64\save\SPC-Debug.log` while poker is running.
+

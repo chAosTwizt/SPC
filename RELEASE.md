@@ -1,24 +1,23 @@
 # Release notes
 
-## SPC Super Poker Custom v1.5.0 (July 12, 2026)
+## SPC Super Poker Custom v1.5.1 (July 13, 2026)
 
-Download **`SPC-SuperPoker-Custom-2026-07-12.zip`** from [Releases](https://github.com/chAosTwizt/SPC/releases/latest).
+Download **`SPC-SuperPoker-Custom-2026-07-13.zip`** from [Releases](https://github.com/chAosTwizt/SPC/releases/latest).
 
-### New in v1.5.0
+### New in v1.5.1
 
-- **Dodo Script** window — plain-English Orville step editor (every button + wait)
-- **Restore defaults** — stock Black/Splatoon timing (17s internet wait)
-- **OrvilleMacro.txt** — OnlineConnect / DodoMenu / Departure sequences, reloaded every Run Dodo
-- **Close Gate** button — close airport gate after a villager visit and return to drop spot
-- **Seaside Seating / Downloads NHI fallback** when a collection pack is missing from `strobe/`
-- **Load NHI** no longer crashes on empty/invalid files (shows an error instead)
-- Strobe panel layout cleanup (Import Pockets, Run Dodo, dodo code, logs)
+- **Themes on all windows** — Red / Black / Splatoon colors apply across Main, Dutch Sailors, Dodo Script, Map, settings, etc.
+- **Gear cog = theme menu** — stays visible while connected; pick theme or open Configuration
+- **Splatoon Joy-Con split** — left = pink, right = green (controller + window balance)
+- **Debug log** — live `save\SPC-Debug.log`; on real crash auto-saves `SPC-LAST-CRASH.log` to Desktop (no button needed)
+- **Send Debug Log** — optional while poker is still open
+- **Close Gate aborts Dodo Restore** — stops restore so it won’t walk back in and re-open the gate
+- **Theme stickiness** — buttons/tabs keep theme colors after clicks
+- **False “crashed” popup fix** — recoverable UI errors no longer claim poker died
 
-### Still included from v1.0.2
+### From v1.5.0
 
-- First-run setup wizard for staff (Switch IP, anchors, theme)
-- Connect validation soft-fail on empty peek
-- Run Dodo / dropper crash fixes, present items, villager name fixes
+- Dodo Script editor, OrvilleMacro.txt, Close Gate, Seaside Seating NHI fallback, Load NHI empty-file fix
 
 ### Staff setup
 

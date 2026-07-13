@@ -2,8 +2,6 @@
 
 Share edition of ACNH SuperPoker for Strobe/Nookmart order delivery.
 
-**Current release: [v1.5.0](https://github.com/chAosTwizt/SPC/releases/tag/v1.5.0)**
-
 ## What's different from a personal install zip?
 
 This package includes a **first-run setup wizard** that asks for:
@@ -21,8 +19,7 @@ See **[SETUP-STAFF.md](SETUP-STAFF.md)** for the full checklist.
 1. Extract zip → run `win-x64\ACNHPokerCore.exe`
 2. Complete setup wizard
 3. Connect → Load Order → Run Dodo → Dutch Sailors + keyboard hotkeys
-
-Optional on this build: **Dodo Script** (Orville timing editor) and **Close Gate** after villager visits.
+4. **Gear cog** (stays after connect) → theme colors, or Configuration
 
 ## Requirements
 
