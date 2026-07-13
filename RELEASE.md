@@ -1,44 +1,32 @@
 # Release notes
 
-## SuperPoker Share Pack — July 2026
+## SPC Super Poker Custom v1.5.0 (July 12, 2026)
 
-Download **`ACNHSuperPoker-Share-2026-07-05.zip`** from the [Releases](https://github.com/chAosTwizt/SPC/releases/latest) page (Assets section).
+Download **`SPC-SuperPoker-Custom-2026-07-12.zip`** from [Releases](https://github.com/chAosTwizt/SPC/releases/latest).
 
-## v1.0.1.1 (July 5, 2026)
+### New in v1.5.0
 
-Same DLL as chAos runs locally — includes v1.0.1 fixes plus Connect validation no longer blocks on a bad peek.
+- **Dodo Script** window — plain-English Orville step editor (every button + wait)
+- **Restore defaults** — stock Black/Splatoon timing (17s internet wait)
+- **OrvilleMacro.txt** — OnlineConnect / DodoMenu / Departure sequences, reloaded every Run Dodo
+- **Close Gate** button — close airport gate after a villager visit and return to drop spot
+- **Seaside Seating / Downloads NHI fallback** when a collection pack is missing from `strobe/`
+- **Load NHI** no longer crashes on empty/invalid files (shows an error instead)
+- Strobe panel layout cleanup (Import Pockets, Run Dodo, dodo code, logs)
 
-### Changes
+### Still included from v1.0.2
 
-- Connect no longer shows "Wait something is wrong here!?" when sys-botbase returns empty data during validation
-- Validation skips gracefully if memory peek fails (retry Connect with ACNH on overworld)
+- First-run setup wizard for staff (Switch IP, anchors, theme)
+- Connect validation soft-fail on empty peek
+- Run Dodo / dropper crash fixes, present items, villager name fixes
 
-## v1.0.1 (July 5, 2026)
+### Staff setup
 
-Same build chAos runs locally — crash fixes for Run Dodo / dropper, Orville menu auto-retry, present item loading.
+1. Extract zip on Windows 10/11
+2. Install [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0)
+3. Run `win-x64\ACNHPokerCore.exe` inside the extracted folder
+4. Follow wizard → see SETUP-STAFF.md
 
-### Changes
+### Do not distribute
 
-- No more FormatException popup on bad sys-botbase reads (logs instead)
-- Dropper survives bad memory reads instead of stopping after N items
-- Run Dodo retries Orville menu (DDOWN 1 → 0 → 2)
-- Website present SKUs map to gift pool
-- README troubleshooting for OrvilleDodoDown config
-
-### Quick start
-
-1. Extract the zip on **Windows 10/11**
-2. Install **[.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0)**
-3. Run `win-x64\ACNHPokerCore.exe`
-4. First launch downloads item images (~90 MB)
-5. See **README.md** for setup, custom buttons, and keyboard-only order workflow
-
-### Requirements
-
-- Nintendo Switch with sys-botbase (port 6000)
-- Animal Crossing: New Horizons
-
-### Not included
-
-- Item images (`img/` — auto-download)
-- Personal IP, anchors, or save data
+- Personal `ACNHSuperPoker-Red/Black/Splatoon` folders (contain host IP + anchors + image cache)

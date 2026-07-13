@@ -1,2384 +1,2919 @@
-[
-  {
-    "Name": "Simple Panel Pack",
-    "NHIs": [
-      "Simple_Panels_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Gyroids",
-    "NHIs": [
-      "AllGyroids4",
-      "AllGyroids5",
-      "AllGyroids2",
-      "AllGyroids3",
-      "AllGyroids1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Golden Tools",
-    "NHIs": [
-      "All_Golden_Tools_6"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Egg Pack",
-    "NHIs": [
-      "Egg_Pack_6"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fish Bait Pack",
-    "NHIs": [
-      "Fish_Bait_Package_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Feather Pack",
-    "NHIs": [
-      "Feather_Pack_12"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Basic Material Pack",
-    "NHIs": [
-      "Basic_Material_Package_21"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mushroom Pack",
-    "NHIs": [
-      "Mushroom_Package_15"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fruits Pack",
-    "NHIs": [
-      "Fruits_Pack_6"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Shell Pack",
-    "NHIs": [
-      "Shell_Pack_24"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ornament Pack",
-    "NHIs": [
-      "Ornament_Package_3"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Star Fragment Pack",
-    "NHIs": [
-      "Star_Fragment_Pack_14"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Wood Pack",
-    "NHIs": [
-      "Wood_Pack"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Genuine Art",
-    "NHIs": [
-      "All_Genuine_Art_2",
-      "All_Genuine_Art_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Fake Art",
-    "NHIs": [
-      "All_Fake_Art_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Music",
-    "NHIs": [
-      "All_Music_1",
-      "All_Music_3",
-      "All_Music_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Fossils",
-    "NHIs": [
-      "All_Fossils_2",
-      "All_Fossils_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Flowers",
-    "NHIs": [
-      "All_Flowers_1",
-      "All_Flowers_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "All Hybrid Flowers",
-    "NHIs": [
-      "All_Hybrid_Flowers_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Arcade Collection",
-    "NHIs": [
-      "Arcade_Collection_32"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fitness Collection",
-    "NHIs": [
-      "Fitness_Collection_24"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Beach Collection",
-    "NHIs": [
-      "Beach_Collection_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Kitchen Collection",
-    "NHIs": [
-      "Kitchen_Collection_35"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Spa Collection",
-    "NHIs": [
-      "Spa_Collection_23"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Zodiac Collection",
-    "NHIs": [
-      "Zodiac_Collection_15"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Plant Collection",
-    "NHIs": [
-      "Plant_Collection_17"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ironwood Collection",
-    "NHIs": [
-      "Ironwood_Collection_1",
-      "Ironwood_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bathroom Collection",
-    "NHIs": [
-      "Bathroom_Collection_20"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mushroom Collection",
-    "NHIs": [
-      "Mushroom_Collection_17"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cherry-Blossom Collection",
-    "NHIs": [
-      "Cherry_Blossom_Collection_23"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Kid's Room Collection",
-    "NHIs": [
-      "Kids_Room_Collection_23"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Concert Collection",
-    "NHIs": [
-      "Concert_Collection_34"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Light Music Collection",
-    "NHIs": [
-      "Light_Music_Collection_12"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bathroom Spa Collection",
-    "NHIs": [
-      "Bathroom_Spa_Collection_29"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Star & Moon Collection",
-    "NHIs": [
-      "Star_&_Moon_Collection_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Birthday Collection",
-    "NHIs": [
-      "Birthday_Collection_15"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pirate Collection",
-    "NHIs": [
-      "Pirate_Collection_13"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mermaid Collection",
-    "NHIs": [
-      "Mermaid_Collection_15"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Library Collection",
-    "NHIs": [
-      "Library_Collection_25"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Shell Collection",
-    "NHIs": [
-      "Shell_Collection_13"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Illuminated Collection",
-    "NHIs": [
-      "Illuminated_Collection_10"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Space Collection",
-    "NHIs": [
-      "Space_Collection_14"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Witch Collection",
-    "NHIs": [
-      "Witch_Collection_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bamboo Collection",
-    "NHIs": [
-      "Bamboo_Collection_20"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Club Collection",
-    "NHIs": [
-      "Club_Collection_7",
-      "Club_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Gulliver Collection",
-    "NHIs": [
-      "Gulliver_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fairy Collection",
-    "NHIs": [
-      "Fairy_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Chef's Kitchen Collection",
-    "NHIs": [
-      "Chefs_Kitchen_Collection_37"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Aqua Bathroom Collection",
-    "NHIs": [
-      "Aqua_Bathroom_Collection_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Leo Collection",
-    "NHIs": [
-      "Leo_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Kawaii Collection",
-    "NHIs": [
-      "Kawaii_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ancient Egypt Collection",
-    "NHIs": [
-      "Ancient_Egypt_Collection_26"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cute Kitchen Collection",
-    "NHIs": [
-      "Cute_Kitchen_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Japanese Spa Collection",
-    "NHIs": [
-      "Japanese_Spa_Collection_33"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Christmas Collection",
-    "NHIs": [
-      "Christmas_Collection_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Campsite Collection",
-    "NHIs": [
-      "Campsite_Collection_19"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Turkey Day Collection",
-    "NHIs": [
-      "Turkey_Day_Collection_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Toy Day Set",
-    "NHIs": [
-      "Toy_Day_Set_1",
-      "Toy_Day_Set_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Picnic Collection",
-    "NHIs": [
-      "Picnic_Collection_22"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pool Collection",
-    "NHIs": [
-      "Pool_Collection_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cityscape Collection",
-    "NHIs": [
-      "Cityscape_Collection_2_10",
-      "Cityscape_Collection_1_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cozy Christmas Collection",
-    "NHIs": [
-      "Cozy_Christmas_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "New Year's Collection",
-    "NHIs": [
-      "New_Years_Collection_26"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Japanese Station Collection",
-    "NHIs": [
-      "Japanese_Station_Collection_26"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Roman Garden Collection",
-    "NHIs": [
-      "Roman_Garden_Collection_26"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Market Collection",
-    "NHIs": [
-      "Market_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "City Apartment Collection",
-    "NHIs": [
-      "City_Apartment_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pink Bathroom Collection",
-    "NHIs": [
-      "Pink_Bathroom_Collection_31"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Deluxe Star & Moon Collection",
-    "NHIs": [
-      "Deluxe_Star_&_Moon_Collection_33"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fairy Bedroom Collection",
-    "NHIs": [
-      "Fairy_Bedroom_Collection_33"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Wreath Set",
-    "NHIs": [
-      "Wreath_Set_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Modern Living Room Collection",
-    "NHIs": [
-      "Modern_Livingroom_Collection_39"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Valentine Collection",
-    "NHIs": [
-      "Valentine_Collection_24"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Indoor Pool Collection",
-    "NHIs": [
-      "Indoor_Pool_Collection_24"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mario Collection",
-    "NHIs": [
-      "Mario_Collection_25"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Simple Living Room Collection",
-    "NHIs": [
-      "Simple_Livingroom_Collection_20"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Simple Bedroom Collection",
-    "NHIs": [
-      "Simple_Bedroom_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Simple Laundry Room Collection",
-    "NHIs": [
-      "Simple_Laundry_Room_Collection_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Chai (Cinnamoroll) Collection",
-    "NHIs": [
-      "Chai_Cinnamoroll_Collection_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Chelsea (My Melody) Collection",
-    "NHIs": [
-      "Chelsea_My_Melody_Collection_10"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Etoile (Little Twin Stars) Collection",
-    "NHIs": [
-      "Etoile_Little_Twin_Stars_Collection_10"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Marty (Pompompurin) Collection",
-    "NHIs": [
-      "Marty_Pompompurin_Collection_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Rilla (Hello Kitty) Collection",
-    "NHIs": [
-      "Rilla_Hello_Kitty_Collection_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Toby (Kerokerokeroppi) Collection",
-    "NHIs": [
-      "Toby_Kerokerokeroppi_Collection_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bunny Day Collection",
-    "NHIs": [
-      "Bunny_Day_Collection_31"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Outdoor Bar Collection",
-    "NHIs": [
-      "Outdoor_Bar_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Outdoor Cafe Collection",
-    "NHIs": [
-      "Outdoor_Cafe_Collection_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Surf Shop Collection",
-    "NHIs": [
-      "Surf_Shop_Collection_2_10",
-      "Surf_Shop_Collection_1_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Butterfly Room Collection",
-    "NHIs": [
-      "Butterfly_Room_Collection_21"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Deep Sea Collection",
-    "NHIs": [
-      "Deep_Sea_Collection_16"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Festivale Concert Collection",
-    "NHIs": [
-      "FestivaleConcert_Collection_37"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Classic Kitchen Collection",
-    "NHIs": [
-      "Classic_Kitchen_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Playground Collection",
-    "NHIs": [
-      "Playground_Collection_22"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Outdoor Spa Collection",
-    "NHIs": [
-      "Outdoor_Spa_Collection_32"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pink Bedroom Collection",
-    "NHIs": [
-      "Pink_Bedroom_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cabin Bunk Bed Collection",
-    "NHIs": [
-      "Cabin_Bunkbed_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pink Outdoor Cafe Collection",
-    "NHIs": [
-      "Pink_Outdoor_Cafe_Collection_22"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Manga Library Collection",
-    "NHIs": [
-      "Manga_Library_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Modern Kitchen Collection",
-    "NHIs": [
-      "Modern_Kitchen_Collection_34"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Elegant Living Room Collection",
-    "NHIs": [
-      "Elegant_Livingroom_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Scenic Mountain Collection",
-    "NHIs": [
-      "Scenic_Mountain_Collection_29"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Rainbow Bedroom Collection",
-    "NHIs": [
-      "Rainbow_Bedroom_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Plant Lounge Collection",
-    "NHIs": [
-      "Plant_Lounge_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Arcade & Game Collection",
-    "NHIs": [
-      "Arcade_&_Game_Collection_32"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Birch Room Collection",
-    "NHIs": [
-      "Birch_Room_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Royal Lounge Collection",
-    "NHIs": [
-      "Royal_Lounge_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Art Workshop Collection",
-    "NHIs": [
-      "Art_Workshop_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fancy Spa Collection",
-    "NHIs": [
-      "Fancy_Spa_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pirates' Quarters Collection",
-    "NHIs": [
-      "Pirates_Quarters_Collection40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mom's House Collection",
-    "NHIs": [
-      "Moms_House_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Japanese Kitchen Collection",
-    "NHIs": [
-      "Japanese_Kitchen_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Artsy Living Room Collection",
-    "NHIs": [
-      "Artsy_Livingroom_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "DAL Collection",
-    "NHIs": [
-      "DAL_Collection_23"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Indoor Swamp Collection",
-    "NHIs": [
-      "Indoor_Swamp_Collection_33"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Spooky Room Collection",
-    "NHIs": [
-      "Spooky_Room_Collection_34"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Peach Collection",
-    "NHIs": [
-      "Peach_Collection_24"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cherry & Orange Collection",
-    "NHIs": [
-      "Cherry_Orange_Collection_26"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pear Collection",
-    "NHIs": [
-      "Pear_Collection_22"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Apple Collection",
-    "NHIs": [
-      "Apple_Collection_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Slytherin Commons Collection",
-    "NHIs": [
-      "Slytherin_Commons_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ravenclaw Commons Collection",
-    "NHIs": [
-      "Ravenclaw_Commons_Collection_1",
-      "Ravenclaw_Commons_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Gryffindor Commons Collection",
-    "NHIs": [
-      "Gryffindor_Commons_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Hufflepuff Commons Collection",
-    "NHIs": [
-      "Hufflepuff_Commons_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Outdoor Light Collection",
-    "NHIs": [
-      "Outdoor_Light_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fish Market Collection",
-    "NHIs": [
-      "Fish_Market_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fairy Garden Collection",
-    "NHIs": [
-      "Fairy_Garden_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Glowing-Moss Collection",
-    "NHIs": [
-      "Glowing_Moss_Collection_19"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Movie Theater Collection",
-    "NHIs": [
-      "Movie_Theatre_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pink Gaming Collection",
-    "NHIs": [
-      "Pink_Gaming_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Grocery Store Collection",
-    "NHIs": [
-      "Grocery_Store_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Construction Collection",
-    "NHIs": [
-      "Construction_Collection_16"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Greenhouse Collection",
-    "NHIs": [
-      "Greenhouse_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ramen Kitchen Collection",
-    "NHIs": [
-      "Ramen_Kitchen_Collection_39"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cafe Collection",
-    "NHIs": [
-      "Cafe_Collection_39"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ice Cream Shop Collection",
-    "NHIs": [
-      "Ice_Cream_Shop_Collection_39"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Feast Collection",
-    "NHIs": [
-      "Feast_Collection_2",
-      "Feast_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Hospital Collection",
-    "NHIs": [
-      "Hospital_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Botany Collection",
-    "NHIs": [
-      "Botany_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Modern Bathhouse Collection",
-    "NHIs": [
-      "Modern_Bathhouse_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Traditional Bathhouse Collection",
-    "NHIs": [
-      "Traditional_Bathhouse_Collection_31"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Nordic Collection",
-    "NHIs": [
-      "Nordic_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Christmas Ornament Collection",
-    "NHIs": [
-      "Christmas_Ornament_Collection_21"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "2021 Christmas Collection",
-    "NHIs": [
-      "2021_Christmas_Collection_31"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Vaporwave Collection",
-    "NHIs": [
-      "Vaporwave_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Princess Bedroom Collection",
-    "NHIs": [
-      "Princess_Bedroom_Collection_21"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Nursery Bedroom Collection",
-    "NHIs": [
-      "Nursery_Bedroom_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Sakura Bathroom Collection",
-    "NHIs": [
-      "Sakura_Bathroom_Collection_25"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Black Modern Bathroom Collection",
-    "NHIs": [
-      "Black_Modern_Bathroom_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Sunny Room Collection",
-    "NHIs": [
-      "Sunny_Room_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Beekeeper Collection",
-    "NHIs": [
-      "Beekeeper_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Boutique Clothing Store Collection",
-    "NHIs": [
-      "Boutique_Clothing_Store_Collection_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Citycore Collection",
-    "NHIs": [
-      "Citycore_Collection1",
-      "Citycore_Collection2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Farm Collection",
-    "NHIs": [
-      "Farm_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Jungle Temple Collection",
-    "NHIs": [
-      "Jungle_Temple_Collection_1",
-      "Jungle_Temple_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Moroccan Patio Collection",
-    "NHIs": [
-      "Moroccan_Patio_Collection2",
-      "Moroccan_Patio_Collection1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Outdoor Concert Collection",
-    "NHIs": [
-      "Outdoor_Concert_Collection_1",
-      "Outdoor_Concert_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Safari Collection",
-    "NHIs": [
-      "Safari_Collection_2",
-      "Safari_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Saint Patrick's Day Collection",
-    "NHIs": [
-      "Saint_Patricks_Day_Collection_1",
-      "Saint_Patricks_Day_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Sakura Temple Collection",
-    "NHIs": [
-      "Sakura_Temple_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Tikibar Collection",
-    "NHIs": [
-      "Tiki_Bar_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Monochromatic Bathroom Collection",
-    "NHIs": [
-      "Monochromatic_Bathroom_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Spring Plaza Collection",
-    "NHIs": [
-      "Spring_Plaza_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Gulliver Set",
-    "NHIs": [
-      "Gulliver_Set_40",
-      "Gulliver_Set_38"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Imperial Collection",
-    "NHIs": [
-      "Imperial_Collection_28"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Monochromatic Kitchen Collection",
-    "NHIs": [
-      "Monochromatic_Kitchen_Collection_1",
-      "Monochromatic_Kitchen_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Spooky Bedroom",
-    "NHIs": [
-      "Spooky_Bedroom"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Tea Room Collection",
-    "NHIs": [
-      "Tea_Room_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pet Store Collection",
-    "NHIs": [
-      "Pet_Store_Collection_2",
-      "Pet_Store_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Starry Bedroom Collection",
-    "NHIs": [
-      "Starry_Bedroom_Collection_32"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Summer Campsite Collection",
-    "NHIs": [
-      "Summer_Campsite_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Italian Cafe Collection",
-    "NHIs": [
-      "Italian_Cafe_Collection",
-      "Italian_Cafe_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fall Plaza Collection",
-    "NHIs": [
-      "Fall_Plaza_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fall Market Collection",
-    "NHIs": [
-      "Fall_Market_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Sorcerer's Den Collection",
-    "NHIs": [
-      "Sorcerers_Den_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Christmas Living Room Collection",
-    "NHIs": [
-      "Christmas_Living_Room_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Christmas Plaza Collection",
-    "NHIs": [
-      "Christmas_Plaza_Collection_1",
-      "Christmas_Plaza_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pink Picnic Collection",
-    "NHIs": [
-      "Pink_Picnic_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Indoor Spa Collection",
-    "NHIs": [
-      "Indoor_Spa_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Beach Bar Collection",
-    "NHIs": [
-      "Beach_Bar_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Outdoor Movie Theater Collection",
-    "NHIs": [
-      "Outdoor_Movie_Theater_Collection_29"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Magic Attic Collection",
-    "NHIs": [
-      "Magic_Attic_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Park Plaza Collection",
-    "NHIs": [
-      "Park_Plaza_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Indoor Cafe Collection",
-    "NHIs": [
-      "Indoor_Cafe_Collection_2",
-      "Indoor_Cafe_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Wild West Collection",
-    "NHIs": [
-      "Wild_West_Collection_2_73",
-      "Wild_West_Collection_1_73"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ice Castle Collection",
-    "NHIs": [
-      "Ice_Castle_Collection_41",
-      "Ice_Castle_Collection_41_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Wizard Collection",
-    "NHIs": [
-      "Wizard_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "70s Hippie Collection",
-    "NHIs": [
-      "70s_Hippie_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Grandmas Kitchen Collection",
-    "NHIs": [
-      "Grandmas_Kitchen_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Graveyard Collection",
-    "NHIs": [
-      "Graveyard_Collection_40",
-      "Graveyard_Collection_40_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Starter Plots Furniture Collection",
-    "NHIs": [
-      "Starter_Plots_Furniture_Collection_40"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Year Of The Dragon Collection",
-    "NHIs": [
-      "Year_Of_The_Dragon_Collection_1",
-      "Year_Of_The_Dragon_Collection_2"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Nook Inc. Collection",
-    "NHIs": [
-      "Nook_Inc_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "50s Pool Party Collection",
-    "NHIs": [
-      "50s_Pool_Party_Collection_2",
-      "50s_Pool_Party_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Gyroid Collection",
-    "NHIs": [
-      "Gyroid_Collection_37"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Celeste DIY Recipes",
-    "NHIs": [
-      "Celeste_DIY_Recipes_35"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Autumn DIY Recipes",
-    "NHIs": [
-      "Autumn_DIY_Recipes_18"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Crown DIY Recipes",
-    "NHIs": [
-      "Crown_DIY_Recipes_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Spooky DIY Recipes",
-    "NHIs": [
-      "Spooky_DIY_Recipes_18"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Golden DIY Recipes",
-    "NHIs": [
-      "Golden_DIY_Recipes_23"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ironwood DIY Recipes",
-    "NHIs": [
-      "Ironwood_DIY_Recipes_10"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Cherry-Blossom DIY Recipes",
-    "NHIs": [
-      "Cherry_Blossom_DIY_Recipes_15"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Christmas DIY Recipes",
-    "NHIs": [
-      "Christmas_DIY_Recipes_12"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mushroom DIY Recipes",
-    "NHIs": [
-      "Mushroom_DIY_Recipes_12"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Frozen DIY Recipes",
-    "NHIs": [
-      "Frozen_DIY_Recipes_12"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Log DIY Recipes",
-    "NHIs": [
-      "Log_DIY_Recipes_13"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Turkey Day DIY Recipes",
-    "NHIs": [
-      "Turkey_Day_DIY_Recipes_8"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Stone DIY Recipes",
-    "NHIs": [
-      "Stone_DIY_Recipes_20"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bamboo DIY Recipes",
-    "NHIs": [
-      "Bamboo_DIY_Recipes_18"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mermaid DIY Recipes",
-    "NHIs": [
-      "Mermaid_DIY_Recipes_15"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Zodiac DIY Recipes",
-    "NHIs": [
-      "Zodiac_DIY_Recipes_12"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Shell DIY Recipes",
-    "NHIs": [
-      "Shell_DIY_Recipes"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Wreath DIY Recipes",
-    "NHIs": [
-      "Wreath_DIY_Recipes_33"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bunny Day DIY Recipes",
-    "NHIs": [
-      "Bunny_Day_DIY_Recipes_20"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Fence DIY Recipes",
-    "NHIs": [
-      "Fence_DIY_Recipes_30"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Glowing Moss DIY Recipes",
-    "NHIs": [
-      "Glowing_Moss_DIY_Recipes_19"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Vine DIY Recipes",
-    "NHIs": [
-      "Vine_DIY_Recipes_11"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ruin DIY Recipes",
-    "NHIs": [
-      "Ruin_DIY_Recipes_5"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Christmas Ornament DIY Recipes",
-    "NHIs": [
-      "Christmas_Ornament_DIY_Recipes"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Golden 2.0 DIY Recipes",
-    "NHIs": [
-      "Golden_2.0_DIY_Recipes_17"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Golden Tool DIYs",
-    "NHIs": [
-      "Golden_Tool_DIY"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Teddy Bear Tea Party Collection",
-    "NHIs": [
-      "Teddy_Bear_Tea_Party_Collection_2",
-      "Teddy_Bear_Tea_Party_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bayou Noodle Shop Collection",
-    "NHIs": [
-      "Bayou_Noodle_Shop_Collection_1",
-      "Bayou_Noodle_Shop_Collection_2",
-      "Bayou_Noodle_Shop_Collection_3"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Pastel Cafe Collection",
-    "NHIs": [
-      "Pastel_Cafe_Collection_2",
-      "Pastel_Cafe_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mermaid Campsite Collection",
-    "NHIs": [
-      "Mermaid_Campsite_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mini Coffee Shop Collection",
-    "NHIs": [
-      "Mini_Coffee_Shop_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Bookstore Collection",
-    "NHIs": [
-      "Bookstore_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "2024 Christmas Collection",
-    "NHIs": [
-      "2024_Christmas_Collection_2",
-      "2024_Christmas_Collection_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Ultimate Starter Kit",
-    "NHIs": [
-      "Ultimate_Starter_Kit_57_2",
-      "Ultimate_Starter_Kit_57_1"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Hanukkah Collection",
-    "NHIs": [
-      "Hanukkah_Collection_27"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mini Valentine Collection",
-    "NHIs": [
-      "Mini_Valentine_Collection_21"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Veggie Pack",
-    "NHIs": [
-      "Veggie_Pack"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "108,000,000 Bells",
-    "NHIs": [
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "36,000,000 Bells",
-    "NHIs": [
-      "12000000_Bells",
-      "12000000_Bells",
-      "12000000_Bells"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "600,000 Bells",
-    "NHIs": [
-      "600000_Bells"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "12,000,000 Bells",
-    "NHIs": [
-      "12000000_Bells"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "4,200,000 Bells",
-    "NHIs": [
-      "4200000_Bells"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "100 Nook Miles Tickets",
-    "NHIs": [
-      "100_Nook_Miles_Tickets"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "400 Nook Miles Tickets",
-    "NHIs": [
-      "400_Nook_Miles_Tickets"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "1,200 Nook Miles Tickets",
-    "NHIs": [
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "3,600 Nook Miles Tickets",
-    "NHIs": [
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets",
-      "400_Nook_Miles_Tickets"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Diner Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Aquamarine",
-        "NHIs": [
-          "Diner_Collection_AQUAMARINE_27"
-        ]
-      },
-      {
-        "Name": "Black",
-        "NHIs": [
-          "Diner_Collection_BLACK_27"
-        ]
-      },
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Diner_Collection_BLUE_27"
-        ]
-      },
-      {
-        "Name": "Pink",
-        "NHIs": [
-          "Diner_Collection_Pink_27"
-        ]
-      },
-      {
-        "Name": "Red",
-        "NHIs": [
-          "Diner_Collection_RED_27"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Diner_Collection_White_27"
-        ]
-      },
-      {
-        "Name": "Yellow",
-        "NHIs": [
-          "Diner_Collection_YELLOW_27"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Cute Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Cute_Collection_BLUE_24"
-        ]
-      },
-      {
-        "Name": "Red",
-        "NHIs": [
-          "Cute_Collection_RED_24"
-        ]
-      },
-      {
-        "Name": "Sky Blue",
-        "NHIs": [
-          "Cute_Collection_SKYBLUE_24"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Cute_Collection_WHITE_24"
-        ]
-      },
-      {
-        "Name": "Yellow",
-        "NHIs": [
-          "Cute_Collection_YELLOW_24"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Frozen Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Ice",
-        "NHIs": [
-          "Frozen_Collection_ICE_15"
-        ]
-      },
-      {
-        "Name": "Ice Blue",
-        "NHIs": [
-          "Frozen_Collection_ICEBLUE_15"
-        ]
-      },
-      {
-        "Name": "Ice Green",
-        "NHIs": [
-          "Frozen_Collection_ICEGREEN_15"
-        ]
-      },
-      {
-        "Name": "Ice Orange",
-        "NHIs": [
-          "Frozen_Collection_ICEORANGE_15"
-        ]
-      },
-      {
-        "Name": "Ice Pink",
-        "NHIs": [
-          "Frozen_Collection_ICEPINK_15"
-        ]
-      },
-      {
-        "Name": "Ice Purple",
-        "NHIs": [
-          "Frozen_Collection_ICEPURPLE_15"
-        ]
-      },
-      {
-        "Name": "Ice Yellow",
-        "NHIs": [
-          "Frozen_Collection_ICEYELLOW_15"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Wedding Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Chic",
-        "NHIs": [
-          "Wedding_Collection_Chic_24"
-        ]
-      },
-      {
-        "Name": "Cute",
-        "NHIs": [
-          "Wedding_Collection_Cute_24"
-        ]
-      },
-      {
-        "Name": "Garden",
-        "NHIs": [
-          "Wedding_Collection_Garden_24"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Festivale Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Festivale_Collection_Blue_21"
-        ]
-      },
-      {
-        "Name": "Green",
-        "NHIs": [
-          "Festivale_Collection_Green_21"
-        ]
-      },
-      {
-        "Name": "Purple",
-        "NHIs": [
-          "Festivale_Collection_Purple_21"
-        ]
-      },
-      {
-        "Name": "Rainbow",
-        "NHIs": [
-          "Festivale_Collection_Colorful_21"
-        ]
-      },
-      {
-        "Name": "Red",
-        "NHIs": [
-          "Festivale_Collection_Red_21"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Antique Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Black",
-        "NHIs": [
-          "Antique_Collection_Black_28"
-        ]
-      },
-      {
-        "Name": "Brown",
-        "NHIs": [
-          "Antique_Collection_Brown_28"
-        ]
-      },
-      {
-        "Name": "Natural",
-        "NHIs": [
-          "Antique_Collection_Natural_28"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Rattan Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Black",
-        "NHIs": [
-          "Rattan_Collection_Black_18"
-        ]
-      },
-      {
-        "Name": "Brown",
-        "NHIs": [
-          "Rattan_Collection_Brown_18"
-        ]
-      },
-      {
-        "Name": "Gray",
-        "NHIs": [
-          "Rattan_Collection_Gray_18"
-        ]
-      },
-      {
-        "Name": "Light Brown",
-        "NHIs": [
-          "Rattan_Collection_LightBrown_18"
-        ]
-      },
-      {
-        "Name": "Reddish Brown",
-        "NHIs": [
-          "Rattan_Collection_Reddish_18"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Rattan_Collection_White_18"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Spooky Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Green",
-        "NHIs": [
-          "Spooky_Collection_Green_30"
-        ]
-      },
-      {
-        "Name": "Monochrome",
-        "NHIs": [
-          "Spooky_Collection_Monochrome_30"
-        ]
-      },
-      {
-        "Name": "Orange",
-        "NHIs": [
-          "Spooky_Collection_Orange_30"
-        ]
-      },
-      {
-        "Name": "Yellow",
-        "NHIs": [
-          "Spooky_Collection_Yellow_30"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Ruin Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Black",
-        "NHIs": [
-          "Ruin_Collection_Black_6"
-        ]
-      },
-      {
-        "Name": "Ivory",
-        "NHIs": [
-          "Ruin_Collection_Ivory_6"
-        ]
-      },
-      {
-        "Name": "Light Brown",
-        "NHIs": [
-          "Ruin_Collection_Light_Brown_6"
-        ]
-      },
-      {
-        "Name": "Mossy",
-        "NHIs": [
-          "Ruin_Collection_Mossy_6"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Ruin_Collection_White_6"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Ranch Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Ranch_Collection_Blue_20"
-        ]
-      },
-      {
-        "Name": "Dark Brown",
-        "NHIs": [
-          "Ranch_Collection_Darkbrown_20"
-        ]
-      },
-      {
-        "Name": "Green",
-        "NHIs": [
-          "Ranch_Collection_Green_20"
-        ]
-      },
-      {
-        "Name": "Natural",
-        "NHIs": [
-          "Ranch_Collection_Natural_20"
-        ]
-      },
-      {
-        "Name": "Pink",
-        "NHIs": [
-          "Ranch_Collection_Pink_20"
-        ]
-      },
-      {
-        "Name": "Vintage",
-        "NHIs": [
-          "Ranch_Collection_Vintage_20"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Ranch_Collection_White_20"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Plaza Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Classic",
-        "NHIs": [
-          "Plaza_Collection_Classic_13"
-        ]
-      },
-      {
-        "Name": "Cool",
-        "NHIs": [
-          "Plaza_Collection_Cool_13"
-        ]
-      },
-      {
-        "Name": "Cute",
-        "NHIs": [
-          "Plaza_Collection_Cute_13"
-        ]
-      },
-      {
-        "Name": "Vivid",
-        "NHIs": [
-          "Plaza_Collection_Vivid_13"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Cool Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Black",
-        "NHIs": [
-          "Cool_Collection_Black_20"
-        ]
-      },
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Cool_Collection_Blue_20"
-        ]
-      },
-      {
-        "Name": "Lime",
-        "NHIs": [
-          "Cool_Collection_Lime_20"
-        ]
-      },
-      {
-        "Name": "Orange",
-        "NHIs": [
-          "Cool_Collection_Orange_20"
-        ]
-      },
-      {
-        "Name": "Red",
-        "NHIs": [
-          "Cool_Collection_Red_20"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Cool_Collection_White_20"
-        ]
-      },
-      {
-        "Name": "Yellow",
-        "NHIs": [
-          "Cool_Collection_Yellow_20"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Dreamy Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Black",
-        "NHIs": [
-          "Dreamy_Collection_Black_10"
-        ]
-      },
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Dreamy_Collection_Blue_10"
-        ]
-      },
-      {
-        "Name": "Green",
-        "NHIs": [
-          "Dreamy_Collection_Green_10"
-        ]
-      },
-      {
-        "Name": "Orange",
-        "NHIs": [
-          "Dreamy_Collection_Orange_10"
-        ]
-      },
-      {
-        "Name": "Pink",
-        "NHIs": [
-          "Dreamy_Collection_Pink"
-        ]
-      },
-      {
-        "Name": "Yellow",
-        "NHIs": [
-          "Dreamy_Collection_Yellow_10"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Castle Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Brown",
-        "NHIs": [
-          "Castle_Collection_Brown"
-        ]
-      },
-      {
-        "Name": "Gray",
-        "NHIs": [
-          "Castle_Collection_Gray"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Moroccan Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Blue",
-        "NHIs": [
-          "Moroccan_Collection_Blue_40"
-        ]
-      },
-      {
-        "Name": "Brown",
-        "NHIs": [
-          "Moroccan_Collection_Brown_40"
-        ]
-      },
-      {
-        "Name": "Green",
-        "NHIs": [
-          "Moroccan_Collection_Green_40"
-        ]
-      },
-      {
-        "Name": "Pink",
-        "NHIs": [
-          "Moroccan_Collection_Pink_40"
-        ]
-      },
-      {
-        "Name": "Purple",
-        "NHIs": [
-          "Moroccan_Collection_Purple_40"
-        ]
-      },
-      {
-        "Name": "Red",
-        "NHIs": [
-          "Moroccan_Collection_Red_40"
-        ]
-      },
-      {
-        "Name": "White",
-        "NHIs": [
-          "Moroccan_Collection_White_40"
-        ]
-      },
-      {
-        "Name": "Yellow",
-        "NHIs": [
-          "Moroccan_Collection_Yellow_40"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Hyrule Field Collection",
-    "NHIs": [
-      "Hyrule_Field_Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "LEGO® Collection",
-    "NHIs": [],
-    "Variants": [
-      {
-        "Name": "Colorful",
-        "NHIs": [
-          "Colorful_Lego_Collection_13"
-        ]
-      },
-      {
-        "Name": "Modern",
-        "NHIs": [
-          "Modern_Lego_Collection_13"
-        ]
-      },
-      {
-        "Name": "Cute",
-        "NHIs": [
-          "Cute_Lego_Collection_13"
-        ]
-      },
-      {
-        "Name": "Chic",
-        "NHIs": [
-          "Chic_Lego_Collection_13"
-        ]
-      }
-    ]
-  },
-  {
-    "Name": "Zelda Collection",
-    "NHIs": [
-      "Zelda_Collection_31"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Mini Cat Cafe Collection",
-    "NHIs": [
-      "Mini Cat Cafe Collection"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Whimsical Sitting Spot Collection",
-    "NHIs": [
-      "Whimsical_Sitting_Spot"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Stargazing Spot Collection",
-    "NHIs": [
-      "Stargazing_Spot"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Farmers Market Patio Collection",
-    "NHIs": [
-      "Farmers_Marker_Sitting_Spot"
-    ],
-    "Variants": []
-  },
-  {
-    "Name": "Wedding Reception Collection",
-    "NHIs": [
-      "Wedding_Reception"
-    ],
-    "Variants": []
-  }
+﻿[
+    {
+        "Name":  "Simple Panel Pack",
+        "NHIs":  [
+                     "Simple_Panels_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Gyroids",
+        "NHIs":  [
+                     "AllGyroids4",
+                     "AllGyroids5",
+                     "AllGyroids2",
+                     "AllGyroids3",
+                     "AllGyroids1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Golden Tools",
+        "NHIs":  [
+                     "All_Golden_Tools_6"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Egg Pack",
+        "NHIs":  [
+                     "Egg_Pack_6"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fish Bait Pack",
+        "NHIs":  [
+                     "Fish_Bait_Package_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Feather Pack",
+        "NHIs":  [
+                     "Feather_Pack_12"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Basic Material Pack",
+        "NHIs":  [
+                     "Basic_Material_Package_21"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mushroom Pack",
+        "NHIs":  [
+                     "Mushroom_Package_15"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fruits Pack",
+        "NHIs":  [
+                     "Fruits_Pack_6"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Shell Pack",
+        "NHIs":  [
+                     "Shell_Pack_24"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ornament Pack",
+        "NHIs":  [
+                     "Ornament_Package_3"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Star Fragment Pack",
+        "NHIs":  [
+                     "Star_Fragment_Pack_14"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Wood Pack",
+        "NHIs":  [
+                     "Wood_Pack"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Genuine Art",
+        "NHIs":  [
+                     "All_Genuine_Art_2",
+                     "All_Genuine_Art_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Fake Art",
+        "NHIs":  [
+                     "All_Fake_Art_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Music",
+        "NHIs":  [
+                     "All_Music_1",
+                     "All_Music_3",
+                     "All_Music_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Fossils",
+        "NHIs":  [
+                     "All_Fossils_2",
+                     "All_Fossils_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Flowers",
+        "NHIs":  [
+                     "All_Flowers_1",
+                     "All_Flowers_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "All Hybrid Flowers",
+        "NHIs":  [
+                     "All_Hybrid_Flowers_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Arcade Collection",
+        "NHIs":  [
+                     "Arcade_Collection_32"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fitness Collection",
+        "NHIs":  [
+                     "Fitness_Collection_24"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Beach Collection",
+        "NHIs":  [
+                     "Beach_Collection_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Kitchen Collection",
+        "NHIs":  [
+                     "Kitchen_Collection_35"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Spa Collection",
+        "NHIs":  [
+                     "Spa_Collection_23"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Zodiac Collection",
+        "NHIs":  [
+                     "Zodiac_Collection_15"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Plant Collection",
+        "NHIs":  [
+                     "Plant_Collection_17"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ironwood Collection",
+        "NHIs":  [
+                     "Ironwood_Collection_1",
+                     "Ironwood_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bathroom Collection",
+        "NHIs":  [
+                     "Bathroom_Collection_20"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mushroom Collection",
+        "NHIs":  [
+                     "Mushroom_Collection_17"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cherry-Blossom Collection",
+        "NHIs":  [
+                     "Cherry_Blossom_Collection_23"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Kid\u0027s Room Collection",
+        "NHIs":  [
+                     "Kids_Room_Collection_23"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Concert Collection",
+        "NHIs":  [
+                     "Concert_Collection_34"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Light Music Collection",
+        "NHIs":  [
+                     "Light_Music_Collection_12"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bathroom Spa Collection",
+        "NHIs":  [
+                     "Bathroom_Spa_Collection_29"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Star \u0026 Moon Collection",
+        "NHIs":  [
+                     "Star_\u0026_Moon_Collection_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Birthday Collection",
+        "NHIs":  [
+                     "Birthday_Collection_15"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pirate Collection",
+        "NHIs":  [
+                     "Pirate_Collection_13"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mermaid Collection",
+        "NHIs":  [
+                     "Mermaid_Collection_15"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Library Collection",
+        "NHIs":  [
+                     "Library_Collection_25"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Shell Collection",
+        "NHIs":  [
+                     "Shell_Collection_13"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Illuminated Collection",
+        "NHIs":  [
+                     "Illuminated_Collection_10"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Space Collection",
+        "NHIs":  [
+                     "Space_Collection_14"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Witch Collection",
+        "NHIs":  [
+                     "Witch_Collection_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bamboo Collection",
+        "NHIs":  [
+                     "Bamboo_Collection_20"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Club Collection",
+        "NHIs":  [
+                     "Club_Collection_7",
+                     "Club_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Gulliver Collection",
+        "NHIs":  [
+                     "Gulliver_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fairy Collection",
+        "NHIs":  [
+                     "Fairy_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Chef\u0027s Kitchen Collection",
+        "NHIs":  [
+                     "Chefs_Kitchen_Collection_37"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Aqua Bathroom Collection",
+        "NHIs":  [
+                     "Aqua_Bathroom_Collection_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Leo Collection",
+        "NHIs":  [
+                     "Leo_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Kawaii Collection",
+        "NHIs":  [
+                     "Kawaii_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ancient Egypt Collection",
+        "NHIs":  [
+                     "Ancient_Egypt_Collection_26"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cute Kitchen Collection",
+        "NHIs":  [
+                     "Cute_Kitchen_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Japanese Spa Collection",
+        "NHIs":  [
+                     "Japanese_Spa_Collection_33"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Christmas Collection",
+        "NHIs":  [
+                     "Christmas_Collection_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Campsite Collection",
+        "NHIs":  [
+                     "Campsite_Collection_19"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Turkey Day Collection",
+        "NHIs":  [
+                     "Turkey_Day_Collection_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Toy Day Set",
+        "NHIs":  [
+                     "Toy_Day_Set_1",
+                     "Toy_Day_Set_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Picnic Collection",
+        "NHIs":  [
+                     "Picnic_Collection_22"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pool Collection",
+        "NHIs":  [
+                     "Pool_Collection_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cityscape Collection",
+        "NHIs":  [
+                     "Cityscape_Collection_2_10",
+                     "Cityscape_Collection_1_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cozy Christmas Collection",
+        "NHIs":  [
+                     "Cozy_Christmas_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "New Year\u0027s Collection",
+        "NHIs":  [
+                     "New_Years_Collection_26"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Japanese Station Collection",
+        "NHIs":  [
+                     "Japanese_Station_Collection_26"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Roman Garden Collection",
+        "NHIs":  [
+                     "Roman_Garden_Collection_26"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Market Collection",
+        "NHIs":  [
+                     "Market_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "City Apartment Collection",
+        "NHIs":  [
+                     "City_Apartment_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pink Bathroom Collection",
+        "NHIs":  [
+                     "Pink_Bathroom_Collection_31"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Deluxe Star \u0026 Moon Collection",
+        "NHIs":  [
+                     "Deluxe_Star_\u0026_Moon_Collection_33"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fairy Bedroom Collection",
+        "NHIs":  [
+                     "Fairy_Bedroom_Collection_33"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Wreath Set",
+        "NHIs":  [
+                     "Wreath_Set_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Modern Living Room Collection",
+        "NHIs":  [
+                     "Modern_Livingroom_Collection_39"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Valentine Collection",
+        "NHIs":  [
+                     "Valentine_Collection_24"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Indoor Pool Collection",
+        "NHIs":  [
+                     "Indoor_Pool_Collection_24"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mario Collection",
+        "NHIs":  [
+                     "Mario_Collection_25"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Simple Living Room Collection",
+        "NHIs":  [
+                     "Simple_Livingroom_Collection_20"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Simple Bedroom Collection",
+        "NHIs":  [
+                     "Simple_Bedroom_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Simple Laundry Room Collection",
+        "NHIs":  [
+                     "Simple_Laundry_Room_Collection_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Chai (Cinnamoroll) Collection",
+        "NHIs":  [
+                     "Chai_Cinnamoroll_Collection_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Chelsea (My Melody) Collection",
+        "NHIs":  [
+                     "Chelsea_My_Melody_Collection_10"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Etoile (Little Twin Stars) Collection",
+        "NHIs":  [
+                     "Etoile_Little_Twin_Stars_Collection_10"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Marty (Pompompurin) Collection",
+        "NHIs":  [
+                     "Marty_Pompompurin_Collection_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Rilla (Hello Kitty) Collection",
+        "NHIs":  [
+                     "Rilla_Hello_Kitty_Collection_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Toby (Kerokerokeroppi) Collection",
+        "NHIs":  [
+                     "Toby_Kerokerokeroppi_Collection_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bunny Day Collection",
+        "NHIs":  [
+                     "Bunny_Day_Collection_31"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Outdoor Bar Collection",
+        "NHIs":  [
+                     "Outdoor_Bar_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Outdoor Cafe Collection",
+        "NHIs":  [
+                     "Outdoor_Cafe_Collection_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Surf Shop Collection",
+        "NHIs":  [
+                     "Surf_Shop_Collection_2_10",
+                     "Surf_Shop_Collection_1_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Butterfly Room Collection",
+        "NHIs":  [
+                     "Butterfly_Room_Collection_21"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Deep Sea Collection",
+        "NHIs":  [
+                     "Deep_Sea_Collection_16"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Festivale Concert Collection",
+        "NHIs":  [
+                     "FestivaleConcert_Collection_37"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Classic Kitchen Collection",
+        "NHIs":  [
+                     "Classic_Kitchen_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Playground Collection",
+        "NHIs":  [
+                     "Playground_Collection_22"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Outdoor Spa Collection",
+        "NHIs":  [
+                     "Outdoor_Spa_Collection_32"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pink Bedroom Collection",
+        "NHIs":  [
+                     "Pink_Bedroom_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cabin Bunk Bed Collection",
+        "NHIs":  [
+                     "Cabin_Bunkbed_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pink Outdoor Cafe Collection",
+        "NHIs":  [
+                     "Pink_Outdoor_Cafe_Collection_22"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Manga Library Collection",
+        "NHIs":  [
+                     "Manga_Library_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Modern Kitchen Collection",
+        "NHIs":  [
+                     "Modern_Kitchen_Collection_34"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Elegant Living Room Collection",
+        "NHIs":  [
+                     "Elegant_Livingroom_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Scenic Mountain Collection",
+        "NHIs":  [
+                     "Scenic_Mountain_Collection_29"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Rainbow Bedroom Collection",
+        "NHIs":  [
+                     "Rainbow_Bedroom_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Plant Lounge Collection",
+        "NHIs":  [
+                     "Plant_Lounge_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Arcade \u0026 Game Collection",
+        "NHIs":  [
+                     "Arcade_\u0026_Game_Collection_32"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Birch Room Collection",
+        "NHIs":  [
+                     "Birch_Room_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Royal Lounge Collection",
+        "NHIs":  [
+                     "Royal_Lounge_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Art Workshop Collection",
+        "NHIs":  [
+                     "Art_Workshop_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fancy Spa Collection",
+        "NHIs":  [
+                     "Fancy_Spa_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pirates\u0027 Quarters Collection",
+        "NHIs":  [
+                     "Pirates_Quarters_Collection40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mom\u0027s House Collection",
+        "NHIs":  [
+                     "Moms_House_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Japanese Kitchen Collection",
+        "NHIs":  [
+                     "Japanese_Kitchen_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Artsy Living Room Collection",
+        "NHIs":  [
+                     "Artsy_Livingroom_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "DAL Collection",
+        "NHIs":  [
+                     "DAL_Collection_23"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Indoor Swamp Collection",
+        "NHIs":  [
+                     "Indoor_Swamp_Collection_33"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Spooky Room Collection",
+        "NHIs":  [
+                     "Spooky_Room_Collection_34"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Peach Collection",
+        "NHIs":  [
+                     "Peach_Collection_24"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cherry \u0026 Orange Collection",
+        "NHIs":  [
+                     "Cherry_Orange_Collection_26"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pear Collection",
+        "NHIs":  [
+                     "Pear_Collection_22"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Apple Collection",
+        "NHIs":  [
+                     "Apple_Collection_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Slytherin Commons Collection",
+        "NHIs":  [
+                     "Slytherin_Commons_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ravenclaw Commons Collection",
+        "NHIs":  [
+                     "Ravenclaw_Commons_Collection_1",
+                     "Ravenclaw_Commons_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Gryffindor Commons Collection",
+        "NHIs":  [
+                     "Gryffindor_Commons_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Hufflepuff Commons Collection",
+        "NHIs":  [
+                     "Hufflepuff_Commons_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Outdoor Light Collection",
+        "NHIs":  [
+                     "Outdoor_Light_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fish Market Collection",
+        "NHIs":  [
+                     "Fish_Market_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fairy Garden Collection",
+        "NHIs":  [
+                     "Fairy_Garden_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Glowing-Moss Collection",
+        "NHIs":  [
+                     "Glowing_Moss_Collection_19"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Movie Theater Collection",
+        "NHIs":  [
+                     "Movie_Theatre_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pink Gaming Collection",
+        "NHIs":  [
+                     "Pink_Gaming_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Grocery Store Collection",
+        "NHIs":  [
+                     "Grocery_Store_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Construction Collection",
+        "NHIs":  [
+                     "Construction_Collection_16"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Greenhouse Collection",
+        "NHIs":  [
+                     "Greenhouse_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ramen Kitchen Collection",
+        "NHIs":  [
+                     "Ramen_Kitchen_Collection_39"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cafe Collection",
+        "NHIs":  [
+                     "Cafe_Collection_39"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ice Cream Shop Collection",
+        "NHIs":  [
+                     "Ice_Cream_Shop_Collection_39"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Feast Collection",
+        "NHIs":  [
+                     "Feast_Collection_2",
+                     "Feast_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Hospital Collection",
+        "NHIs":  [
+                     "Hospital_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Botany Collection",
+        "NHIs":  [
+                     "Botany_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Modern Bathhouse Collection",
+        "NHIs":  [
+                     "Modern_Bathhouse_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Traditional Bathhouse Collection",
+        "NHIs":  [
+                     "Traditional_Bathhouse_Collection_31"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Nordic Collection",
+        "NHIs":  [
+                     "Nordic_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Christmas Ornament Collection",
+        "NHIs":  [
+                     "Christmas_Ornament_Collection_21"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "2021 Christmas Collection",
+        "NHIs":  [
+                     "2021_Christmas_Collection_31"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Vaporwave Collection",
+        "NHIs":  [
+                     "Vaporwave_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Princess Bedroom Collection",
+        "NHIs":  [
+                     "Princess_Bedroom_Collection_21"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Nursery Bedroom Collection",
+        "NHIs":  [
+                     "Nursery_Bedroom_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Sakura Bathroom Collection",
+        "NHIs":  [
+                     "Sakura_Bathroom_Collection_25"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Black Modern Bathroom Collection",
+        "NHIs":  [
+                     "Black_Modern_Bathroom_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Sunny Room Collection",
+        "NHIs":  [
+                     "Sunny_Room_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Beekeeper Collection",
+        "NHIs":  [
+                     "Beekeeper_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Boutique Clothing Store Collection",
+        "NHIs":  [
+                     "Boutique_Clothing_Store_Collection_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Citycore Collection",
+        "NHIs":  [
+                     "Citycore_Collection1",
+                     "Citycore_Collection2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Farm Collection",
+        "NHIs":  [
+                     "Farm_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Jungle Temple Collection",
+        "NHIs":  [
+                     "Jungle_Temple_Collection_1",
+                     "Jungle_Temple_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Moroccan Patio Collection",
+        "NHIs":  [
+                     "Moroccan_Patio_Collection2",
+                     "Moroccan_Patio_Collection1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Outdoor Concert Collection",
+        "NHIs":  [
+                     "Outdoor_Concert_Collection_1",
+                     "Outdoor_Concert_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Safari Collection",
+        "NHIs":  [
+                     "Safari_Collection_2",
+                     "Safari_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Saint Patrick\u0027s Day Collection",
+        "NHIs":  [
+                     "Saint_Patricks_Day_Collection_1",
+                     "Saint_Patricks_Day_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Sakura Temple Collection",
+        "NHIs":  [
+                     "Sakura_Temple_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Tikibar Collection",
+        "NHIs":  [
+                     "Tiki_Bar_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Monochromatic Bathroom Collection",
+        "NHIs":  [
+                     "Monochromatic_Bathroom_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Spring Plaza Collection",
+        "NHIs":  [
+                     "Spring_Plaza_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Gulliver Set",
+        "NHIs":  [
+                     "Gulliver_Set_40",
+                     "Gulliver_Set_38"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Imperial Collection",
+        "NHIs":  [
+                     "Imperial_Collection_28"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Monochromatic Kitchen Collection",
+        "NHIs":  [
+                     "Monochromatic_Kitchen_Collection_1",
+                     "Monochromatic_Kitchen_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Spooky Bedroom",
+        "NHIs":  [
+                     "Spooky_Bedroom"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Tea Room Collection",
+        "NHIs":  [
+                     "Tea_Room_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pet Store Collection",
+        "NHIs":  [
+                     "Pet_Store_Collection_2",
+                     "Pet_Store_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Starry Bedroom Collection",
+        "NHIs":  [
+                     "Starry_Bedroom_Collection_32"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Summer Campsite Collection",
+        "NHIs":  [
+                     "Summer_Campsite_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Italian Cafe Collection",
+        "NHIs":  [
+                     "Italian_Cafe_Collection",
+                     "Italian_Cafe_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fall Plaza Collection",
+        "NHIs":  [
+                     "Fall_Plaza_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fall Market Collection",
+        "NHIs":  [
+                     "Fall_Market_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Sorcerer\u0027s Den Collection",
+        "NHIs":  [
+                     "Sorcerers_Den_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Christmas Living Room Collection",
+        "NHIs":  [
+                     "Christmas_Living_Room_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Christmas Plaza Collection",
+        "NHIs":  [
+                     "Christmas_Plaza_Collection_1",
+                     "Christmas_Plaza_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pink Picnic Collection",
+        "NHIs":  [
+                     "Pink_Picnic_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Indoor Spa Collection",
+        "NHIs":  [
+                     "Indoor_Spa_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Beach Bar Collection",
+        "NHIs":  [
+                     "Beach_Bar_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Outdoor Movie Theater Collection",
+        "NHIs":  [
+                     "Outdoor_Movie_Theater_Collection_29"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Magic Attic Collection",
+        "NHIs":  [
+                     "Magic_Attic_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Park Plaza Collection",
+        "NHIs":  [
+                     "Park_Plaza_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Indoor Cafe Collection",
+        "NHIs":  [
+                     "Indoor_Cafe_Collection_2",
+                     "Indoor_Cafe_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Wild West Collection",
+        "NHIs":  [
+                     "Wild_West_Collection_2_73",
+                     "Wild_West_Collection_1_73"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ice Castle Collection",
+        "NHIs":  [
+                     "Ice_Castle_Collection_41",
+                     "Ice_Castle_Collection_41_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Wizard Collection",
+        "NHIs":  [
+                     "Wizard_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "70s Hippie Collection",
+        "NHIs":  [
+                     "70s_Hippie_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Grandmas Kitchen Collection",
+        "NHIs":  [
+                     "Grandmas_Kitchen_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Graveyard Collection",
+        "NHIs":  [
+                     "Graveyard_Collection_40",
+                     "Graveyard_Collection_40_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Starter Plots Furniture Collection",
+        "NHIs":  [
+                     "Starter_Plots_Furniture_Collection_40"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Year Of The Dragon Collection",
+        "NHIs":  [
+                     "Year_Of_The_Dragon_Collection_1",
+                     "Year_Of_The_Dragon_Collection_2"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Nook Inc. Collection",
+        "NHIs":  [
+                     "Nook_Inc_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "50s Pool Party Collection",
+        "NHIs":  [
+                     "50s_Pool_Party_Collection_2",
+                     "50s_Pool_Party_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Gyroid Collection",
+        "NHIs":  [
+                     "Gyroid_Collection_37"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Celeste DIY Recipes",
+        "NHIs":  [
+                     "Celeste_DIY_Recipes_35"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Autumn DIY Recipes",
+        "NHIs":  [
+                     "Autumn_DIY_Recipes_18"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Crown DIY Recipes",
+        "NHIs":  [
+                     "Crown_DIY_Recipes_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Spooky DIY Recipes",
+        "NHIs":  [
+                     "Spooky_DIY_Recipes_18"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Golden DIY Recipes",
+        "NHIs":  [
+                     "Golden_DIY_Recipes_23"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ironwood DIY Recipes",
+        "NHIs":  [
+                     "Ironwood_DIY_Recipes_10"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Cherry-Blossom DIY Recipes",
+        "NHIs":  [
+                     "Cherry_Blossom_DIY_Recipes_15"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Christmas DIY Recipes",
+        "NHIs":  [
+                     "Christmas_DIY_Recipes_12"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mushroom DIY Recipes",
+        "NHIs":  [
+                     "Mushroom_DIY_Recipes_12"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Frozen DIY Recipes",
+        "NHIs":  [
+                     "Frozen_DIY_Recipes_12"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Log DIY Recipes",
+        "NHIs":  [
+                     "Log_DIY_Recipes_13"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Turkey Day DIY Recipes",
+        "NHIs":  [
+                     "Turkey_Day_DIY_Recipes_8"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Stone DIY Recipes",
+        "NHIs":  [
+                     "Stone_DIY_Recipes_20"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bamboo DIY Recipes",
+        "NHIs":  [
+                     "Bamboo_DIY_Recipes_18"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mermaid DIY Recipes",
+        "NHIs":  [
+                     "Mermaid_DIY_Recipes_15"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Zodiac DIY Recipes",
+        "NHIs":  [
+                     "Zodiac_DIY_Recipes_12"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Shell DIY Recipes",
+        "NHIs":  [
+                     "Shell_DIY_Recipes"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Wreath DIY Recipes",
+        "NHIs":  [
+                     "Wreath_DIY_Recipes_33"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bunny Day DIY Recipes",
+        "NHIs":  [
+                     "Bunny_Day_DIY_Recipes_20"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Fence DIY Recipes",
+        "NHIs":  [
+                     "Fence_DIY_Recipes_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Glowing Moss DIY Recipes",
+        "NHIs":  [
+                     "Glowing_Moss_DIY_Recipes_19"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Vine DIY Recipes",
+        "NHIs":  [
+                     "Vine_DIY_Recipes_11"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ruin DIY Recipes",
+        "NHIs":  [
+                     "Ruin_DIY_Recipes_5"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Christmas Ornament DIY Recipes",
+        "NHIs":  [
+                     "Christmas_Ornament_DIY_Recipes"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Golden 2.0 DIY Recipes",
+        "NHIs":  [
+                     "Golden_2.0_DIY_Recipes_17"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Golden Tool DIYs",
+        "NHIs":  [
+                     "Golden_Tool_DIY"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Teddy Bear Tea Party Collection",
+        "NHIs":  [
+                     "Teddy_Bear_Tea_Party_Collection_2",
+                     "Teddy_Bear_Tea_Party_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bayou Noodle Shop Collection",
+        "NHIs":  [
+                     "Bayou_Noodle_Shop_Collection_1",
+                     "Bayou_Noodle_Shop_Collection_2",
+                     "Bayou_Noodle_Shop_Collection_3"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Pastel Cafe Collection",
+        "NHIs":  [
+                     "Pastel_Cafe_Collection_2",
+                     "Pastel_Cafe_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mermaid Campsite Collection",
+        "NHIs":  [
+                     "Mermaid_Campsite_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mini Coffee Shop Collection",
+        "NHIs":  [
+                     "Mini_Coffee_Shop_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Bookstore Collection",
+        "NHIs":  [
+                     "Bookstore_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "2024 Christmas Collection",
+        "NHIs":  [
+                     "2024_Christmas_Collection_2",
+                     "2024_Christmas_Collection_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Ultimate Starter Kit",
+        "NHIs":  [
+                     "Ultimate_Starter_Kit_57_2",
+                     "Ultimate_Starter_Kit_57_1"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Hanukkah Collection",
+        "NHIs":  [
+                     "Hanukkah_Collection_27"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mini Valentine Collection",
+        "NHIs":  [
+                     "Mini_Valentine_Collection_21"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Veggie Pack",
+        "NHIs":  [
+                     "Veggie_Pack"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "108,000,000 Bells",
+        "NHIs":  [
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "36,000,000 Bells",
+        "NHIs":  [
+                     "12000000_Bells",
+                     "12000000_Bells",
+                     "12000000_Bells"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "600,000 Bells",
+        "NHIs":  [
+                     "600000_Bells"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "12,000,000 Bells",
+        "NHIs":  [
+                     "12000000_Bells"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "4,200,000 Bells",
+        "NHIs":  [
+                     "4200000_Bells"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "100 Nook Miles Tickets",
+        "NHIs":  [
+                     "100_Nook_Miles_Tickets"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "400 Nook Miles Tickets",
+        "NHIs":  [
+                     "400_Nook_Miles_Tickets"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "1,200 Nook Miles Tickets",
+        "NHIs":  [
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "3,600 Nook Miles Tickets",
+        "NHIs":  [
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets",
+                     "400_Nook_Miles_Tickets"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Diner Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Aquamarine",
+                             "NHIs":  [
+                                          "Diner_Collection_AQUAMARINE_27"
+                                      ]
+                         },
+                         {
+                             "Name":  "Black",
+                             "NHIs":  [
+                                          "Diner_Collection_BLACK_27"
+                                      ]
+                         },
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Diner_Collection_BLUE_27"
+                                      ]
+                         },
+                         {
+                             "Name":  "Pink",
+                             "NHIs":  [
+                                          "Diner_Collection_Pink_27"
+                                      ]
+                         },
+                         {
+                             "Name":  "Red",
+                             "NHIs":  [
+                                          "Diner_Collection_RED_27"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Diner_Collection_White_27"
+                                      ]
+                         },
+                         {
+                             "Name":  "Yellow",
+                             "NHIs":  [
+                                          "Diner_Collection_YELLOW_27"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Cute Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Cute_Collection_BLUE_24"
+                                      ]
+                         },
+                         {
+                             "Name":  "Red",
+                             "NHIs":  [
+                                          "Cute_Collection_RED_24"
+                                      ]
+                         },
+                         {
+                             "Name":  "Sky Blue",
+                             "NHIs":  [
+                                          "Cute_Collection_SKYBLUE_24"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Cute_Collection_WHITE_24"
+                                      ]
+                         },
+                         {
+                             "Name":  "Yellow",
+                             "NHIs":  [
+                                          "Cute_Collection_YELLOW_24"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Frozen Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Ice",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICE_15"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ice Blue",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICEBLUE_15"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ice Green",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICEGREEN_15"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ice Orange",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICEORANGE_15"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ice Pink",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICEPINK_15"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ice Purple",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICEPURPLE_15"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ice Yellow",
+                             "NHIs":  [
+                                          "Frozen_Collection_ICEYELLOW_15"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Wedding Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Chic",
+                             "NHIs":  [
+                                          "Wedding_Collection_Chic_24"
+                                      ]
+                         },
+                         {
+                             "Name":  "Cute",
+                             "NHIs":  [
+                                          "Wedding_Collection_Cute_24"
+                                      ]
+                         },
+                         {
+                             "Name":  "Garden",
+                             "NHIs":  [
+                                          "Wedding_Collection_Garden_24"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Festivale Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Festivale_Collection_Blue_21"
+                                      ]
+                         },
+                         {
+                             "Name":  "Green",
+                             "NHIs":  [
+                                          "Festivale_Collection_Green_21"
+                                      ]
+                         },
+                         {
+                             "Name":  "Purple",
+                             "NHIs":  [
+                                          "Festivale_Collection_Purple_21"
+                                      ]
+                         },
+                         {
+                             "Name":  "Rainbow",
+                             "NHIs":  [
+                                          "Festivale_Collection_Colorful_21"
+                                      ]
+                         },
+                         {
+                             "Name":  "Red",
+                             "NHIs":  [
+                                          "Festivale_Collection_Red_21"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Antique Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Black",
+                             "NHIs":  [
+                                          "Antique_Collection_Black_28"
+                                      ]
+                         },
+                         {
+                             "Name":  "Brown",
+                             "NHIs":  [
+                                          "Antique_Collection_Brown_28"
+                                      ]
+                         },
+                         {
+                             "Name":  "Natural",
+                             "NHIs":  [
+                                          "Antique_Collection_Natural_28"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Rattan Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Black",
+                             "NHIs":  [
+                                          "Rattan_Collection_Black_18"
+                                      ]
+                         },
+                         {
+                             "Name":  "Brown",
+                             "NHIs":  [
+                                          "Rattan_Collection_Brown_18"
+                                      ]
+                         },
+                         {
+                             "Name":  "Gray",
+                             "NHIs":  [
+                                          "Rattan_Collection_Gray_18"
+                                      ]
+                         },
+                         {
+                             "Name":  "Light Brown",
+                             "NHIs":  [
+                                          "Rattan_Collection_LightBrown_18"
+                                      ]
+                         },
+                         {
+                             "Name":  "Reddish Brown",
+                             "NHIs":  [
+                                          "Rattan_Collection_Reddish_18"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Rattan_Collection_White_18"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Spooky Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Green",
+                             "NHIs":  [
+                                          "Spooky_Collection_Green_30"
+                                      ]
+                         },
+                         {
+                             "Name":  "Monochrome",
+                             "NHIs":  [
+                                          "Spooky_Collection_Monochrome_30"
+                                      ]
+                         },
+                         {
+                             "Name":  "Orange",
+                             "NHIs":  [
+                                          "Spooky_Collection_Orange_30"
+                                      ]
+                         },
+                         {
+                             "Name":  "Yellow",
+                             "NHIs":  [
+                                          "Spooky_Collection_Yellow_30"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Ruin Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Black",
+                             "NHIs":  [
+                                          "Ruin_Collection_Black_6"
+                                      ]
+                         },
+                         {
+                             "Name":  "Ivory",
+                             "NHIs":  [
+                                          "Ruin_Collection_Ivory_6"
+                                      ]
+                         },
+                         {
+                             "Name":  "Light Brown",
+                             "NHIs":  [
+                                          "Ruin_Collection_Light_Brown_6"
+                                      ]
+                         },
+                         {
+                             "Name":  "Mossy",
+                             "NHIs":  [
+                                          "Ruin_Collection_Mossy_6"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Ruin_Collection_White_6"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Ranch Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Ranch_Collection_Blue_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Dark Brown",
+                             "NHIs":  [
+                                          "Ranch_Collection_Darkbrown_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Green",
+                             "NHIs":  [
+                                          "Ranch_Collection_Green_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Natural",
+                             "NHIs":  [
+                                          "Ranch_Collection_Natural_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Pink",
+                             "NHIs":  [
+                                          "Ranch_Collection_Pink_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Vintage",
+                             "NHIs":  [
+                                          "Ranch_Collection_Vintage_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Ranch_Collection_White_20"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Plaza Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Classic",
+                             "NHIs":  [
+                                          "Plaza_Collection_Classic_13"
+                                      ]
+                         },
+                         {
+                             "Name":  "Cool",
+                             "NHIs":  [
+                                          "Plaza_Collection_Cool_13"
+                                      ]
+                         },
+                         {
+                             "Name":  "Cute",
+                             "NHIs":  [
+                                          "Plaza_Collection_Cute_13"
+                                      ]
+                         },
+                         {
+                             "Name":  "Vivid",
+                             "NHIs":  [
+                                          "Plaza_Collection_Vivid_13"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Cool Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Black",
+                             "NHIs":  [
+                                          "Cool_Collection_Black_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Cool_Collection_Blue_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Lime",
+                             "NHIs":  [
+                                          "Cool_Collection_Lime_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Orange",
+                             "NHIs":  [
+                                          "Cool_Collection_Orange_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Red",
+                             "NHIs":  [
+                                          "Cool_Collection_Red_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Cool_Collection_White_20"
+                                      ]
+                         },
+                         {
+                             "Name":  "Yellow",
+                             "NHIs":  [
+                                          "Cool_Collection_Yellow_20"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Dreamy Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Black",
+                             "NHIs":  [
+                                          "Dreamy_Collection_Black_10"
+                                      ]
+                         },
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Dreamy_Collection_Blue_10"
+                                      ]
+                         },
+                         {
+                             "Name":  "Green",
+                             "NHIs":  [
+                                          "Dreamy_Collection_Green_10"
+                                      ]
+                         },
+                         {
+                             "Name":  "Orange",
+                             "NHIs":  [
+                                          "Dreamy_Collection_Orange_10"
+                                      ]
+                         },
+                         {
+                             "Name":  "Pink",
+                             "NHIs":  [
+                                          "Dreamy_Collection_Pink"
+                                      ]
+                         },
+                         {
+                             "Name":  "Yellow",
+                             "NHIs":  [
+                                          "Dreamy_Collection_Yellow_10"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Castle Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Brown",
+                             "NHIs":  [
+                                          "Castle_Collection_Brown"
+                                      ]
+                         },
+                         {
+                             "Name":  "Gray",
+                             "NHIs":  [
+                                          "Castle_Collection_Gray"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Moroccan Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Blue",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Blue_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "Brown",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Brown_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "Green",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Green_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "Pink",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Pink_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "Purple",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Purple_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "Red",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Red_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "White",
+                             "NHIs":  [
+                                          "Moroccan_Collection_White_40"
+                                      ]
+                         },
+                         {
+                             "Name":  "Yellow",
+                             "NHIs":  [
+                                          "Moroccan_Collection_Yellow_40"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Hyrule Field Collection",
+        "NHIs":  [
+                     "Hyrule_Field_Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "LEGOÂ® Collection",
+        "NHIs":  [
+
+                 ],
+        "Variants":  [
+                         {
+                             "Name":  "Colorful",
+                             "NHIs":  [
+                                          "Colorful_Lego_Collection_13"
+                                      ]
+                         },
+                         {
+                             "Name":  "Modern",
+                             "NHIs":  [
+                                          "Modern_Lego_Collection_13"
+                                      ]
+                         },
+                         {
+                             "Name":  "Cute",
+                             "NHIs":  [
+                                          "Cute_Lego_Collection_13"
+                                      ]
+                         },
+                         {
+                             "Name":  "Chic",
+                             "NHIs":  [
+                                          "Chic_Lego_Collection_13"
+                                      ]
+                         }
+                     ]
+    },
+    {
+        "Name":  "Zelda Collection",
+        "NHIs":  [
+                     "Zelda_Collection_31"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Mini Cat Cafe Collection",
+        "NHIs":  [
+                     "Mini Cat Cafe Collection"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Whimsical Sitting Spot Collection",
+        "NHIs":  [
+                     "Whimsical_Sitting_Spot"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Stargazing Spot Collection",
+        "NHIs":  [
+                     "Stargazing_Spot"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Farmers Market Patio Collection",
+        "NHIs":  [
+                     "Farmers_Marker_Sitting_Spot"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Wedding Reception Collection",
+        "NHIs":  [
+                     "Wedding_Reception"
+                 ],
+        "Variants":  [
+
+                     ]
+    },
+    {
+        "Name":  "Summoning Circle Collection",
+        "NHIs":  [
+                     "Summoning_Circle_Collection_30"
+                 ],
+        "Variants":  [
+
+                     ]
+    }
 ]
